@@ -60,7 +60,7 @@ if ( isset($_SESSION['error']) ) {
     <script src="https://kit.fontawesome.com/8888ec5d3c.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="ll.css">
 
-    <title>Grupo Conorgin</title>
+    <title>Nombre de la Empresa</title>
   </head>
   <body class="bg-dark">
     <section>
