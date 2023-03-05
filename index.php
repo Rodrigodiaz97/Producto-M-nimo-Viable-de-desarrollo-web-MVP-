@@ -77,7 +77,7 @@ if ( isset($_SESSION['error']) ) {
                         <div class="carousel-caption d-none d-md-block">
                           <strong>
                           <h5>Toma las mejores decisiones de inversión con modelos de Machine Learning</h5>
-                          <p>Descubre el potencial del retorno de inversión por zonas geaograficas.</p>
+                          <p>Descubre el potencial del retorno de inversión de las emisoras más importantes.</p>
                           </strong>
                         </div>
                       </div>
